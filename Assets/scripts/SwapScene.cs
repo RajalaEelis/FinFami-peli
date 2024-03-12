@@ -13,4 +13,6 @@ public class SwapScene : MonoBehaviour
     {
         SceneManager.LoadScene("Minun Isani");
     }
+
+  
 }
