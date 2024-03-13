@@ -1,11 +1,9 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-public class FPS : MonoBehaviour
+public class FirstPersonMovement : MonoBehaviour
 {
     public float speed = 5;
-
-    
 
     [Header("Running")]
     public bool canRun = true;
@@ -42,11 +40,6 @@ public class FPS : MonoBehaviour
 
         // Apply movement.
         rigidbody.velocity = transform.rotation * new Vector3(targetVelocity.x, rigidbody.velocity.y, targetVelocity.y);
-
-
-        
-
     }
 
-    
 }
