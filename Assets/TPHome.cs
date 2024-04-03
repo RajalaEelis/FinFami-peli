@@ -18,6 +18,19 @@ public class TPHome : MonoBehaviour
     {
         player.transform.position = this.transform.position;
 
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+
+
+
+    public void OK()
+    {
         Controller.enabled = (true);
 
         Cameramovement.enabled = (true);
@@ -27,11 +40,5 @@ public class TPHome : MonoBehaviour
         m_Rigidbody.constraints = RigidbodyConstraints.FreezeRotationZ | RigidbodyConstraints.FreezeRotationX;
 
         Cursor.lockState = CursorLockMode.Locked;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }

@@ -10,6 +10,8 @@ public class KenkaSCRIPT : MonoBehaviour
     public FirstPersonMovement Controller;
     public FirstPersonLook Cameramovement;
     public Rigidbody m_Rigidbody;
+    public GameObject Mutsi;
+    public GameObject MutsiTP;
     void OnTriggerEnter()
     {
         MSG.SetActive(true);
@@ -26,5 +28,8 @@ public class KenkaSCRIPT : MonoBehaviour
         m_Rigidbody.constraints = RigidbodyConstraints.None;
 
         m_Rigidbody.constraints = RigidbodyConstraints.FreezeRotationZ | RigidbodyConstraints.FreezeRotationX;
+
+        Mutsi.transform.position = MutsiTP.transform.position;
+        Mutsi.transform.rotation = MutsiTP.transform.rotation;
     }
 }
