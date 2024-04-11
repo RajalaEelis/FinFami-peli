@@ -13,6 +13,7 @@ public class TPHome : MonoBehaviour
 
     public Rigidbody m_Rigidbody;
     
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -32,7 +33,7 @@ public class TPHome : MonoBehaviour
     public void OK()
     {
         Controller.enabled = (true);
-
+       
         Cameramovement.enabled = (true);
 
         m_Rigidbody.constraints = RigidbodyConstraints.None;

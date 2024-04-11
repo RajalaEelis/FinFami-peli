@@ -15,6 +15,9 @@ public class TriggerMessage : MonoBehaviour
 
     public GameObject SecondMSG;
 
+    public Transform lookAtDaddy;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -30,9 +33,9 @@ public class TriggerMessage : MonoBehaviour
     void OnTriggerEnter()
     {
         MessageBox.SetActive(true);
-        
+        playerCam.transform.LookAt(lookAtDaddy);
         Controller.enabled = (false);
-
+        
         SecondMSG.SetActive(false);
 
         playerCam.transform.rotation = Quaternion.Euler(-5, 0, 0);

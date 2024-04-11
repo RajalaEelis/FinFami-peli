@@ -25,6 +25,8 @@ public class KenkaSCRIPT : MonoBehaviour
     {
         Player.transform.position = TP.transform.position;
 
+        Player.transform.rotation = TP.transform.rotation;
+
         m_Rigidbody.constraints = RigidbodyConstraints.None;
 
         m_Rigidbody.constraints = RigidbodyConstraints.FreezeRotationZ | RigidbodyConstraints.FreezeRotationX;
