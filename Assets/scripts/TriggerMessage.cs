@@ -9,13 +9,15 @@ public class TriggerMessage : MonoBehaviour
 
     public FirstPersonLook Cameramovement;
 
+    public GameObject player;
+
     public GameObject playerCam;
     
     public Rigidbody m_Rigidbody;
 
     public GameObject SecondMSG;
 
-    public Transform lookAtDaddy;
+    
 
 
     // Start is called before the first frame update
@@ -33,13 +35,13 @@ public class TriggerMessage : MonoBehaviour
     void OnTriggerEnter()
     {
         MessageBox.SetActive(true);
-        playerCam.transform.LookAt(lookAtDaddy);
+        
         Controller.enabled = (false);
         
         SecondMSG.SetActive(false);
 
         playerCam.transform.rotation = Quaternion.Euler(-5, 0, 0);
-        playerCam.transform.position = (new Vector3(23,38,-165));
+        player.transform.position = (new Vector3(23,38,-165));
 
         Cameramovement.enabled = (false);
         m_Rigidbody.constraints = RigidbodyConstraints.FreezeAll;

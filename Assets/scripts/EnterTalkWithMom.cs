@@ -7,6 +7,9 @@ public class EnterTalkWithMom : MonoBehaviour
     public GameObject TalkWithMom;
     public FirstPersonLook Cameramovement;
 
+    
+
+    public GameObject player;
     public GameObject playerCam;
 
     public Rigidbody m_Rigidbody;
@@ -26,11 +29,14 @@ public class EnterTalkWithMom : MonoBehaviour
 
     void OnTriggerEnter()
     {
+       
         TalkWithMom.SetActive(true);
 
         Controller.enabled = (false);
 
-  
+        player.transform.position = (new Vector3(-17, 1, -120));
+        playerCam.transform.rotation = Quaternion.Euler(0, 330, 0);
+
 
 
         Cameramovement.enabled = (false);

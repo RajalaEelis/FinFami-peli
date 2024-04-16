@@ -13,6 +13,21 @@ public class EnableMovementAgain : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //Controller.enabled = (true);
+
+        //Cameramovement.enabled = (true);
+
+        //m_Rigidbody.constraints = RigidbodyConstraints.None;
+
+        //m_Rigidbody.constraints = RigidbodyConstraints.FreezeRotationZ | RigidbodyConstraints.FreezeRotationX;
+
+        //Cursor.lockState = CursorLockMode.Locked;
+    }
+
+    // Update is called once per frame
+    public void EnableMovement()
+    {
+
         Controller.enabled = (true);
 
         Cameramovement.enabled = (true);
@@ -22,11 +37,5 @@ public class EnableMovementAgain : MonoBehaviour
         m_Rigidbody.constraints = RigidbodyConstraints.FreezeRotationZ | RigidbodyConstraints.FreezeRotationX;
 
         Cursor.lockState = CursorLockMode.Locked;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
