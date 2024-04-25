@@ -34,8 +34,8 @@ public class TalkWithIndian : MonoBehaviour
 
         Controller.enabled = (false);
 
-        player.transform.position = (new Vector3(46,0,0));
-        playerCam.transform.rotation = Quaternion.Euler(0, 0, 0);
+        player.transform.position = (new Vector3(33,1,-188));
+        playerCam.transform.rotation = Quaternion.Euler(0, 40, 0);
 
         FirstOK.SetActive(true);
 
