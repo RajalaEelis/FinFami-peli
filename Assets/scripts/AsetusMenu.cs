@@ -48,6 +48,7 @@ public class AsetusMenu : MonoBehaviour
     public void PoistuPelista()
     {
         Debug.Log("poistupelistä");
+        Application.Quit();
     }
 
 }
