@@ -2330,13 +2330,13 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Kodinhoitaja : Sin\xE4 saat ajatella juuri noin ja tuntea
-            juuri ne tunteet, mit\xE4 is\xE4si masennus sinussa aiheuttaa. Ne eiv\xE4t
-            ole pahoja asioita. Se tarkoittaa vain sit\xE4, ett\xE4 sin\xE4 v\xE4lit\xE4t
-            is\xE4st\xE4 ja h\xE4nen sairaus pelottaa ja mietitytt\xE4\xE4 sinua.
-            Sinulla on t\xE4ysi oikeus olla vihainen, niin is\xE4lle kuin masennuksellekin.
-            On my\xF6s hyv\xE4, ett\xE4 puhut asioista meille aikuisille, kuten nyt
-            minulle."
+          m_StringArgument: "Perhety\xF6ntekij\xE4 : Sin\xE4 saat ajatella juuri
+            noin ja tuntea juuri ne tunteet, mit\xE4 is\xE4si masennus sinussa aiheuttaa.
+            Ne eiv\xE4t ole pahoja asioita. Se tarkoittaa vain sit\xE4, ett\xE4 sin\xE4
+            v\xE4lit\xE4t is\xE4st\xE4 ja h\xE4nen sairaus pelottaa ja mietitytt\xE4\xE4
+            sinua. Sinulla on t\xE4ysi oikeus olla vihainen, niin is\xE4lle kuin
+            masennuksellekin. On my\xF6s hyv\xE4, ett\xE4 puhut asioista meille aikuisille,
+            kuten nyt minulle."
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 188744009}
@@ -13248,7 +13248,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Kodinhoitaja : Sinun ei tarvitse tulla surulliseksi,
+          m_StringArgument: "Perhety\xF6ntekij\xE4 : Sinun ei tarvitse tulla surulliseksi,
             jos is\xE4 ei aina jaksa kiitt\xE4\xE4 sinua vaivasta, jonka n\xE4et.
             On tosi kiva, ett\xE4 haluat auttaa vanhempiasi kotona. Is\xE4sikin arvostaa
             sit\xE4 varmasti, vaikka  sit\xE4 ei aina huomaakaan. Sinun ei kuitenkaan
@@ -15130,7 +15130,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Kodinhoitaja : Hei Poju! Tulin auttamaan vanhempiasi
+          m_StringArgument: "Perhety\xF6ntekij\xE4 : Hei Poju! Tulin auttamaan vanhempiasi
             kotit\xF6iss\xE4."
           m_BoolArgument: 0
         m_CallState: 2
@@ -15167,7 +15167,8 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Teht\xE4v\xE4 : Mene puhumaan kodinhoitajalle keitti\xF6\xF6n."
+          m_StringArgument: "Teht\xE4v\xE4 : Mene puhumaan perhety\xF6ntekij\xE4lle
+            keitti\xF6\xF6n."
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1594373682}
@@ -17393,8 +17394,8 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Kodinhoitaja : Kukka voisi pirist\xE4\xE4 is\xE4n oloa,
-            voisit etsi\xE4 is\xE4lle kukan."
+          m_StringArgument: "Perhety\xF6ntekij\xE4 : Kukka voisi pirist\xE4\xE4 is\xE4n
+            oloa, voisit etsi\xE4 is\xE4lle kukan."
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1594946195}
@@ -17822,10 +17823,10 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Kodinhoitaja : Maailmassa on lis\xE4ksesi monia muitakin
-            lapsia, joiden \xE4iti tai is\xE4 on masentunut. Masennuksesta paranee,
-            kun saa oikeanlaista hoitoa, l\xE4\xE4kkeit\xE4, keskusteluapua ja sen
-            sellaista."
+          m_StringArgument: "Perhety\xF6ntekij\xE4 : Maailmassa on lis\xE4ksesi monia
+            muitakin lapsia, joiden \xE4iti tai is\xE4 on masentunut. Masennuksesta
+            paranee, kun saa oikeanlaista hoitoa, l\xE4\xE4kkeit\xE4, keskusteluapua
+            ja sen sellaista."
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1876496809}
@@ -20064,8 +20065,8 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "kodinhoitajan sanat tuntuvat l\xE4mpimille Pojun rinnassa
-            ja h\xE4n alkaa hymyilem\xE4\xE4n"
+          m_StringArgument: "Perhety\xF6ntekij\xE4n sanat tuntuvat l\xE4mpimille
+            Pojun rinnassa ja h\xE4n alkaa hymyilem\xE4\xE4n"
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 966295154}
