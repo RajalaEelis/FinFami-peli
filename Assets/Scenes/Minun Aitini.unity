@@ -1509,7 +1509,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Poju : Is\xE4 tule sy\xF6m\xE4\xE4n \xE4iti teki munakasta."
+  m_text: "Poju : \xC4iti tule sy\xF6m\xE4\xE4n \xE4iti teki munakasta."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2857,10 +2857,10 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: "Perhety\xF6ntekij\xE4 : Sin\xE4 saat ajatella juuri
-            noin ja tuntea juuri ne tunteet, mit\xE4 is\xE4si masennus sinussa aiheuttaa.
+            noin ja tuntea juuri ne tunteet, mit\xE4 \xE4itisi masennus sinussa aiheuttaa.
             Ne eiv\xE4t ole pahoja asioita. Se tarkoittaa vain sit\xE4, ett\xE4 sin\xE4
-            v\xE4lit\xE4t is\xE4st\xE4 ja h\xE4nen sairaus pelottaa ja mietitytt\xE4\xE4
-            sinua. Sinulla on t\xE4ysi oikeus olla vihainen, niin is\xE4lle kuin
+            v\xE4lit\xE4t \xE4itist\xE4si ja h\xE4nen sairaus pelottaa ja mietitytt\xE4\xE4
+            sinua. Sinulla on t\xE4ysi oikeus olla vihainen, niin \xE4itille kuin
             masennuksellekin. On my\xF6s hyv\xE4, ett\xE4 puhut asioista meille aikuisille,
             kuten nyt minulle."
           m_BoolArgument: 0
@@ -3047,7 +3047,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: "Poju: Jos se masennus on sairaus, niin sittenh\xE4n
-            min\xE4kin voin saada sen varmaan is\xE4lt\xE4. Ainakin nuhan min\xE4
+            min\xE4kin voin saada sen varmaan \xE4itilt\xE4. Ainakin nuhan min\xE4
             sain Mikolta p\xE4iv\xE4kodissa, kun se oli kipe\xE4"
           m_BoolArgument: 0
         m_CallState: 2
@@ -3237,12 +3237,12 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: "Perhety\xF6ntekij\xE4 : Sinun ei tarvitse tulla surulliseksi,
-            jos is\xE4 ei aina jaksa kiitt\xE4\xE4 sinua vaivasta, jonka n\xE4et.
-            On tosi kiva, ett\xE4 haluat auttaa vanhempiasi kotona. Is\xE4sikin arvostaa
-            sit\xE4 varmasti, vaikka  sit\xE4 ei aina huomaakaan. Sinun ei kuitenkaan
-            tarvitse ruveta tekem\xE4\xE4n kaikkia aikuisten juttuja. Saat edelleen
-            leikki\xE4 ja puuhastella omia asioitasi. Aikuisten kuuluu tehd\xE4 omat
-            ty\xF6ns\xE4."
+            jos \xE4iti ei aina jaksa kiitt\xE4\xE4 sinua vaivasta, jonka n\xE4et.
+            On tosi kiva, ett\xE4 haluat auttaa vanhempiasi kotona. \xC4itisikin
+            arvostaa sit\xE4 varmasti, vaikka  sit\xE4 ei aina huomaakaan. Sinun
+            ei kuitenkaan tarvitse ruveta tekem\xE4\xE4n kaikkia aikuisten juttuja.
+            Saat edelleen leikki\xE4 ja puuhastella omia asioitasi. Aikuisten kuuluu
+            tehd\xE4 omat ty\xF6ns\xE4."
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1089538162}
@@ -3814,7 +3814,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Teht\xE4v\xE4 : Etsi kukka talosta ja vie se is\xE4lle
+          m_StringArgument: "Teht\xE4v\xE4 : Etsi kukka talosta ja vie se \xE4idille
             yl\xE4kertaan."
           m_BoolArgument: 0
         m_CallState: 2
@@ -3851,7 +3851,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Poju : Hei is\xE4. Halusin pirist\xE4\xE4 sinua joten
+          m_StringArgument: "Poju : Hei \xE4iti. Halusin pirist\xE4\xE4 sinua joten
             toin sinulle t\xE4m\xE4n kukan."
           m_BoolArgument: 1
         m_CallState: 2
@@ -4164,7 +4164,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\xC4iti : Pojuuuu! Nyt laittamaan kenki\xE4 jalkaan tai my\xF6h\xE4styt\xE4\xE4n!"
+  m_text: "Is\xE4 : Pojuuuu! Nyt laittamaan kenki\xE4 jalkaan tai my\xF6h\xE4styt\xE4\xE4n!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5365,7 +5365,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\xC4iti: Ei se, pikkuinen, johdu mitenk\xE4\xE4n sinusta.
+          m_StringArgument: "Is\xE4 : Ei se, pikkuinen, johdu mitenk\xE4\xE4n sinusta.
             Masennus on sairaus joka tulee ihmisen mieleen. Sin\xE4 et sit\xE4 pysty
             aiheuttamaan etk\xE4 my\xF6sk\xE4\xE4n parantamaan. Katsos, kun mieli
             voi my\xF6s sairastua samalla tavalla kuin ihmisen kehokin. Kehon sairaus
@@ -6186,7 +6186,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: "Poju on saanut vastauksia h\xE4nt\xE4 mietitytt\xE4neisiin
-            asioihin. Nyt h\xE4n tiet\xE4\xE4 jo, ett\xE4 is\xE4 j\xE4\xE4 sen masennus\x02sairauden
+            asioihin. Nyt h\xE4n tiet\xE4\xE4 jo, ett\xE4 \xE4iti j\xE4\xE4 sen masennus\x02sairauden
             takia aamuisin s\xE4nkyyn. Masennus ei ole lasten vastuulla."
           m_BoolArgument: 0
         m_CallState: 2
@@ -6368,7 +6368,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Teht\xE4v\xE4 : Mene puhumaan \xE4itille olohuoneeseen."
+          m_StringArgument: "Teht\xE4v\xE4 : Mene puhumaan is\xE4lle olohuoneeseen."
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 638591967}
@@ -6404,7 +6404,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\xC4iti : Olet varmasti huomannut, ett\xE4 is\xE4 on
+          m_StringArgument: "Is\xE4 : Olet varmasti huomannut, ett\xE4 \xE4iti on
             nykyisin hyvin v\xE4synyt ja usein surullinen ja \xE4ksyileekin. Tuo
             kaikki johtuu siit\xE4 M\xF6k\xF6m\xF6ks-taudista, joka on aikuisten
             kielell\xE4 masennus"
@@ -6735,8 +6735,8 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: "Poju : Hei. Minustakin on kiva auttaa aikuisia. Olen
-            min\xE4  isk\xE4n apuna ollut tekem\xE4ss\xE4 kotit\xF6it\xE4 \xE4idin
-            ollessa  t\xF6iss\xE4\u2026 Joskus isk\xE4 ei vaikuta vaan yht\xE4\xE4n
+            min\xE4  \xE4itin apuna ollut tekem\xE4ss\xE4 kotit\xF6it\xE4 is\xE4n
+            ollessa  t\xF6iss\xE4\u2026 Joskus \xE4iti ei vaikuta vaan yht\xE4\xE4n
             iloiselta,  kun autan h\xE4nt\xE4"
           m_BoolArgument: 0
         m_CallState: 2
@@ -10494,7 +10494,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\xC4iti tuli hakemaan pojun p\xE4iv\xE4kodista."
+          m_StringArgument: "Is\xE4 tuli hakemaan pojun p\xE4iv\xE4kodista."
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 880729355}
@@ -10774,7 +10774,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Teht\xE4v\xE4 : Mene hakemaan is\xE4 yl\xE4kerrasta aamupalalle."
+  m_text: "Teht\xE4v\xE4 : Mene hakemaan \xE4iti yl\xE4kerrasta aamupalalle."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -13036,7 +13036,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Poju : Minua harmittaa kun is\xE4 on vain hiljaa omassa
+          m_StringArgument: "Poju : Minua harmittaa kun \xE4iti on vain hiljaa omassa
             huoneessaan."
           m_BoolArgument: 0
         m_CallState: 2
@@ -13922,7 +13922,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "*Is\xE4 murisee*"
+  m_text: "*\xC4iti murisee*"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -14283,7 +14283,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\xC4iti: Ei h\xE4t\xE4\xE4, sill\xE4 masennus eroaa
+          m_StringArgument: "Is\xE4 : Ei h\xE4t\xE4\xE4, sill\xE4 masennus eroaa
             siin\xE4kin nuhasta. Se ei tartu ihmiselt\xE4 toiselle samalla tavalla.
             Paras tapa v\xE4ltty\xE4 silt\xE4 on nauttia omista leikeist\xE4si ja
             muista mukavista asioista."
@@ -15996,10 +15996,10 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Is\xE4 : Kiitos poikani. T\xE4m\xE4 pirist\xE4\xE4 minua
-            hieman ja koitan olla iloisempi ett\xE4 sinun ei tarvitse murehtia minusta.
-            Olet t\xE4rke\xE4 \xE4idille ja is\xE4lle, tapahtui mit\xE4 tahansa.
-            Me rakastamme sinua aina."
+          m_StringArgument: "\xC4iti : Kiitos poikani. T\xE4m\xE4 pirist\xE4\xE4
+            minua hieman ja koitan olla iloisempi ett\xE4 sinun ei tarvitse murehtia
+            minusta. Olet t\xE4rke\xE4 \xE4idille ja is\xE4lle, tapahtui mit\xE4
+            tahansa. Me rakastamme sinua aina."
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1486959774}
@@ -16247,6 +16247,30 @@ MonoBehaviour:
         m_TargetAssemblyTypeName: EnableMovementAgain, Assembly-CSharp
         m_MethodName: EnableMovement
         m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 690280100}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 66307259}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -16636,8 +16660,8 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Perhety\xF6ntekij\xE4 : Kukka voisi pirist\xE4\xE4 is\xE4n
-            oloa, voisit etsi\xE4 is\xE4lle kukan."
+          m_StringArgument: "Perhety\xF6ntekij\xE4 : Kukka voisi pirist\xE4\xE4 \xE4idin
+            oloa, voisit etsi\xE4 \xE4idille kukan."
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 886990034}
@@ -16649,7 +16673,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Teht\xE4v\xE4 : Etsi kukka talosta ja vie se is\xE4lle
+          m_StringArgument: "Teht\xE4v\xE4 : Etsi kukka talosta ja vie se \xE4idille
             yl\xE4kertaan."
           m_BoolArgument: 0
         m_CallState: 2
@@ -18108,7 +18132,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\xC4iti : Pue poju keng\xE4t jalkaan niin l\xE4hdet\xE4\xE4n p\xE4iv\xE4kotiin."
+  m_text: "Is\xE4 : Pue poju keng\xE4t jalkaan niin l\xE4hdet\xE4\xE4n p\xE4iv\xE4kotiin."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -19305,7 +19329,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\xC4iti vei pojun takaisin kotiin."
+          m_StringArgument: "Is\xE4 vei pojun takaisin kotiin."
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1843492573}
@@ -19723,7 +19747,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "Teht\xE4v\xE4 : Odota p\xE4iv\xE4kodissa \xE4iti\xE4."
+          m_StringArgument: "Teht\xE4v\xE4 : Odota p\xE4iv\xE4kodissa is\xE4\xE4."
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1730122022}
@@ -19786,6 +19810,30 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 66307259}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 690280100}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!114 &1861876974
 MonoBehaviour:
